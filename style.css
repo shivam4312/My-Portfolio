@@ -167,7 +167,7 @@ background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
 .home{
     display: flex;
     /* background: url("/images/bg.jpg") no-repeat center; */
-    background: url("https://shivam4312.github.io/my-portfolio/bg.jpg") no-repeat center;
+    background: url("https://shivam4312.github.io/my-portfolio/images/bg.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
