@@ -89,7 +89,7 @@ section .title::after{
     padding: 15px 0;
     /* background: crimson; */
     background-color: #000000;
-background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
 }
 .navbar .max-width{
     display: flex;
@@ -176,11 +176,11 @@ background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
     font-family: 'Ubuntu', sans-serif;
 }
 .home .max-width{
-  width: 100%;
-  display: flex;
+    width: 100%;
+    display: flex;
 }
 .home .max-width .row{
-  margin-right: 0;
+    margin-right: 0;
 }
 .home .home-content .text-1{
     font-size: 27px;
