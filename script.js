@@ -89,13 +89,13 @@ function sendmail() {
         SecureToken: "bacd707a-5fc6-420c-88c1-da5ed9527cc7",
         To: 'shivam43120@gmail.com',
         From: "shivam4312@gmail.com",
-        Subject: "New message on contact from " + name,
+        Subject: "Message from Portfolio " + name,
         Body: Body
     }).then(
         message => {
             //console.log (message);
             if (message == 'OK') {
-                alert('Your mail has been send. Thank you for connecting.');
+                alert('Your mail has been send. Thanks for connecting.');
             }
             else {
                 console.error(message);
