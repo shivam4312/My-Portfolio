@@ -350,6 +350,9 @@ section .title::after {
 .skills-content .right .js::before {
   width: 80%;
 }
+.skills-content .right .git::before {
+  width: 90%;
+}
 .skills-content .right .cpp::before {
   width: 90%;
 }
@@ -406,7 +409,7 @@ section .title::after {
   height: 150px;
   width: 150px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 10%;
   border: 5px solid crimson;
   transition: all 0.3s ease;
 }
